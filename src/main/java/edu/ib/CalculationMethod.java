@@ -1,0 +1,10 @@
+package edu.ib;
+
+/**
+ * An interface containing methods for calculating math operations
+ * @author Nikolina Czart
+ */
+
+public interface CalculationMethod {
+    double calculate(final double a, final double b);
+}

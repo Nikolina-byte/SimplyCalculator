@@ -1,0 +1,56 @@
+.root{
+    -fx-background: #E8EAF6;
+}
+
+.buttonVersion1{
+    -fx-font-size: 22 pt;
+    -fx-font-weight: bold;
+    -fx-font-family: "Courier New";
+    -fx-base: #5150A3;
+    -fx-background: #8E8DF0;
+}
+
+.buttonVersion2{
+    -fx-font-size: 16pt;
+    -fx-font-family: "Courier New";
+    -fx-base: #C5C4FF;
+    -fx-background: #8E8DF0;
+}
+
+.buttonVersion3{
+    -fx-font-size: 26 pt;
+    -fx-font-weight: bold;
+    -fx-font-family: "Courier New";
+    -fx-base: #F0EA2D;
+    -fx-background: #A39240;
+}
+
+.Equation{
+    -fx-font-size: 12pt;
+    -fx-font-family: "Courier New";
+    -fx-background: #9FA8DA;
+}
+
+.Score{
+    -fx-font-size: 20pt;
+    -fx-font-family: "Courier New";
+    -fx-background: #9FA8DA;
+}
+
+.HistoryText{
+    -fx-font-size: 12pt;
+    -fx-font-family: "Courier New";
+    -fx-background: #E8EAF6;
+}
+
+.History{
+    -fx-font-size: 9pt;
+    -fx-font-family: "Courier New";
+    -fx-base: #A39240;
+}
+
+.ButtonHistoryClear{
+    -fx-font-size: 12pt;
+    -fx-font-family: "Courier New";
+    -fx-background: #E8EAF6;
+}
